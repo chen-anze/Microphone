@@ -1,0 +1,2 @@
+# Locally generated reports may contain host and hardware metadata.
+diagnostics*.txt
